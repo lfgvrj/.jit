@@ -1,0 +1,13 @@
+name: My plan
+level: beginner
+update_id: 0c3c8c15-bafa-4926-b017-ed19096737a0
+author: Jit
+version: 0.1
+owners:
+  default: null
+references:
+  - https://www.jit.io
+tags: []
+items:
+  - name: Scan code for hard-coded secrets
+    uses: jitsecurity-controls/jit-plans/items/code/item-secret-detection.yml@latest
